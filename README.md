@@ -4,3 +4,4 @@
 
 * https://gitstar.com.cn/ 免费用三天, 约40 star
 * https://www.gitstarhub.com/
+* https://githubstar.com/
