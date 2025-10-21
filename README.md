@@ -1,7 +1,7 @@
 # gitstar
 收集的一些github互相star的项目/网站
 
-* https://linux.do/t/topic/498246 L站大佬开发,免费
+* https://linux.do/t/topic/498246 L站大佬开发,免费,超级无敌好用
 * https://gitstar.com.cn/ 免费用三天, 约40 star
 * https://www.gitstarhub.com/
 * https://githubstar.com/
